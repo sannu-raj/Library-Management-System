@@ -1,0 +1,13 @@
+
+# Private library records
+books.txt
+issued.txt
+output/books.txt
+output/issued.txt
+
+# Compiled files
+*.exe
+*.out
+
+# VS Code settings
+.vscode/
